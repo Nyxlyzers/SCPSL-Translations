@@ -1,0 +1,37 @@
+0~Zelador Keycard
+1~Cientista Keycard
+2~Supervisor de Pesquisa Keycard
+3~Diretor de Zona Keycard
+4~Guarda Keycard
+5~MTF Privado Keycard
+6~Engenheiro de Contenção Keycard
+7~MTF Sargento Keycard
+8~MTF Capitão Keycard
+9~Diretor da Instalação Keycard
+10~Insurgência do Caos Dispositivo de Acesso
+11~O5-level Keycard
+12~Radio
+13~COM-15
+14~Kit de Primeiros-Socorros~Cura seus machudados.
+15~Lanterna~Que haja luz!
+16~Micro H.I.D.~Lançador de descarga elétrica móvel de alta intensidade.
+17~SCP-500~Cura-tudo.
+18~SCP-207~Prejudicialmente aumenta as funções motoras.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Granada Altamente-Explosiva~Boom!
+26~Granada Flashbang~Cega seus inimigos.
+30~COM-18
+31~SCP-018~Superbola capaz de quicar com extrema eficiência.
+32~SCP-268~Quando usado, torna você temporariamente invisível, a menos que seja interrompido por qualquer interação do usuário.
+33~Adrenalina~Aumenta temporariamente a resistência.
+34~Analgésicos~Trata machucados menores.
+35~Moeda~Você não tem certeza por que deseja carregar isso por aí...
+36~Colete Leve
+37~Colete de Combate
+38~Colete Pesado
+39~.44 Revolver
+40~AK
+41~Shotgun

@@ -1,12 +1,12 @@
-VOCÊ PODE DAR ORDENS
+DÊ ORDENS
 SIGA ORDENS
-O MESMO NIVEL DE PERMISSÃO
-Class-D Personnel escaparam
+MESMA PATENTE
+Pessoal de Class-D escaparam
 Cientistas sobreviveram
 Morto por SCPs
 SCPs mortos/contidos
 Ogiva Nuclear
-Detonado
+Detonada
 Não usado
 A proxima partida iniciara em [time] segundos.
 HABILIDADE ESPECIAL
