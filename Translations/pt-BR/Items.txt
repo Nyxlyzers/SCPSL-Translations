@@ -1,18 +1,18 @@
-0~Zelador Keycard
-1~Cientista Keycard
-2~Supervisor de Pesquisa Keycard
-3~Diretor de Zona Keycard
-4~Guarda Keycard
-5~MTF Privado Keycard
-6~Engenheiro de Contenção Keycard
-7~MTF Sargento Keycard
-8~MTF Capitão Keycard
-9~Diretor da Instalação Keycard
-10~Insurgência do Caos Dispositivo de Acesso
-11~O5-level Keycard
+0~Cartão de Zelador
+1~Cartão de Cientista
+2~Cartão de Supervisor de Pesquisa
+3~Cartão de Diretor de Zona
+4~Cartão de Guarda
+5~Cartão de MTF Privado
+6~Cartão de Engenheiro de Contenção
+7~Cartão de MTF Sargento
+8~Cartão de MTF Capitão
+9~Cartão de Diretor da Instalação
+10~Dispositivo de Acesso da Insurgência do Caos
+11~Cartão nível-O5
 12~Radio
 13~COM-15
-14~Kit de Primeiros-Socorros~Cura seus machudados.
+14~Kit Médico~Cura seus machudados.
 15~Lanterna~Que haja luz!
 16~Micro H.I.D.~Lançador de descarga elétrica móvel de alta intensidade.
 17~SCP-500~Cura-tudo.
