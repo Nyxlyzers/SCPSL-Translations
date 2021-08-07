@@ -73,8 +73,8 @@ Pressione uma vez para alternar entre os modos de câmera.
 SCP-079 - PÓS-PROCESSAMENTO
 Se desativado, os efeitos da câmera serão fortemente reduzidos.
 BALANÇO DA CABEÇA
-Ativa o balanço da camera em primeira pessoa enquanto se movimenta.
-ALTERNAR "CORRIDA"
+Ativa o balanço de câmera em primeira pessoa enquanto se movimenta.
+CORRER ALTERNADO
 Para correr, aperta apenas uma vez, ao invés de manter pressionado.
 SEPARAR BARRA DE HP ARTIFICIAL
 É dado uma barra de vida artificial quando usado adrenalina, ao inves de se juntar a principal.
@@ -87,5 +87,5 @@ LOBBY PUBLICO
 Se ativado, seus amigos do Steam podem se juntar a você sem permissão.
 ESCONDER IP
 Se ativado, qualquer IP no console não irá ser mostrado.
-ALTERNAR "PEGAR ITENS"
+PESQUISAR ALTERNADO
 Se ativado, para pegar itens não é necessário segurar a tecla; pressione a tecla novamente para cancelar.

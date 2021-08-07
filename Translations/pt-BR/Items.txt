@@ -10,7 +10,7 @@
 9~Cartão de Diretor da Instalação
 10~Dispositivo de Acesso da Insurgência do Caos
 11~Cartão nível-O5
-12~Radio
+12~Rádio
 13~COM-15
 14~Kit Médico~Cura seus machudados.
 15~Lanterna~Que haja luz!
