@@ -1,19 +1,19 @@
 DÊ ORDENS
-SIGA ORDENS
+SIGA ÀS ORDENS
 MESMA PATENTE
-Pessoal de Class-D escaparam
+Classe-Ds escaparam
 Cientistas sobreviveram
 Morto por SCPs
 SCPs mortos/contidos
-Ogiva Nuclear
+Ogiva Nuclear Alpha
 Detonada
 Não usado
-A proxima partida iniciara em [time] segundos.
+A próxima partida iniciara em [time] segundos.
 HABILIDADE ESPECIAL
 CRIAR BURACO
 USAR BURACO
 VOCÊ MORREU
-Voce foi morto por
+Você foi morto por
 como
 Passivo
 (escondido)

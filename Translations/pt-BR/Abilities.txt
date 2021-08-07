@@ -13,7 +13,7 @@ Corrosão:Você consegue atravessar portas.
 Contenção:Você recebe quase nenhum dano das balas, mas pode ser facilmente contido através de um sacrifício humano dentro da sua câmara de contenção.
 Dimensão de bolso:Quando um humano é capturado, são teleportados para uma dimensão de bolso que os mata rapidamente. Os humanos devem escolher a saída correta ou morrer.
 Escopofobia:Você começa dócil, mas fica furioso quando é visto ou machucado. Acalme sua raiva matando quem lhe fez mal - siga suas luzes antes que sua fúria acabe. A indignidade de cada ofensor é adicionada ao seu AHP, impedindo-lhe de sofrer danos enquanto este se mantiver.
-Tente não chorar (Dócil):É dificil. Se apoiar em uma porta ajuda; você para de chorar e fica lá, se acalmando... ou esperando alguem passar perto, nunca se sabe.
+Tente Não Chorar (Dócil):É dificil. Se apoiar em uma porta ajuda; você para de chorar e fica lá, se acalmando... ou esperando alguem passar perto, nunca se sabe.
 Ataque Primário (Furioso):Normalmente, Você fica na sua, mas quando é provocado... Você rasga tudo que estiver no seu caminho para chegar até aqueles que te machucaram. Destrói portas, corpos, gates ou qualquer coisa que entrar no seu caminho.
 Supersensível:Você não consegue ver humanos, a menos que eles corram, encostem, ou atirem perto de você.
 Predador:Seus passos são silenciosos. Correr aumenta sua velocidade, mas tambem deixa seus movimentos notáveis.
