@@ -1,7 +1,7 @@
 round terminou!
-SCPS GANHARAM
-MTFS GANHARAM
-CLASSE-DS GANHARAM
+SCPs GANHARAM
+MTFs GANHARAM
+CLASSE-Ds GANHARAM
 EMPATE
 SCPs foram responsáveis por matar [summary_scpfrags] seres humanos.
 Ameaça eliminada. Este lugar está seguro novamente.
