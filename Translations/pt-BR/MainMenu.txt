@@ -69,7 +69,7 @@ OPÇÕES DE GAMEPLAY
 INTRO DESAPARECER RAPIDAMENTE
 O texto de introdução da classe desaparecerá muito mais rapidamente.
 SCP-079 - ATIVAR MODO ALTERNATIVO
-Pressione uma vez para alternar entre os modos de câmera.
+Pressione espaço uma vez para alternar entre os modos de câmera.
 SCP-079 - PÓS-PROCESSAMENTO
 Se desativado, os efeitos da câmera serão fortemente reduzidos.
 BALANÇO DA CABEÇA
