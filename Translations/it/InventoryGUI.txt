@@ -7,9 +7,11 @@ Peso
 Ampiezza
 Fai cadere:
 Efficienza dell'Elmetto
-Efficienza del Giubotto
+Efficienza del Giubbotto
 Stamina impiegata
 Velocità
 Limite degli oggetti:
 Limite delle munizioni:
 {0} complessivamente
+Penetrazione dell'Armatura
+Precisione
