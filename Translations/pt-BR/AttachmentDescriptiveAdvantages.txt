@@ -1,0 +1,4 @@
+Fonte de Luz
+Contador de Munições
+Supressor de Chamas
+Visão Noturna
